@@ -1,0 +1,23 @@
+[
+{
+"title": "Wedemain",
+"url": "http://www.wedemain.fr/xml/atom.xml",
+"count": 10
+},
+{
+"title": "ANIS Asso",
+"url": "http://www.anis.asso.fr/spip.php?page=backend",
+"count": 10
+},
+{
+"title": "Fing",
+"url": "http://feeds2.feedburner.com/fing/actu",
+"count": 10
+},
+{
+"title": "Pratiques Collaboratives",
+"url": "http://www.pratiques-collaboratives.net/spip.php?page=backend",
+"summary": true,
+"count": 10
+}
+]
